@@ -1,0 +1,6 @@
+[submodule "Mohamed/merise"]
+	path = Mohamed/merise
+	url = https://github.com/mehdhaoui/merise.git
+[submodule "Nicolas/DWWM20045"]
+	path = Nicolas/DWWM20045
+	url = https://github.com/seretnicolas/DWWM20045.git
