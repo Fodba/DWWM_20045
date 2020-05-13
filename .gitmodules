@@ -4,3 +4,6 @@
 [submodule "Nicolas/DWWM20045"]
 	path = Nicolas/DWWM20045
 	url = https://github.com/seretnicolas/DWWM20045.git
+[submodule "Kevin/DWWM"]
+	path = Kevin/DWWM
+	url = https://github.com/Kevin-dev-afpa/DWWM.git
