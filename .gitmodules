@@ -7,3 +7,6 @@
 [submodule "Kevin/DWWM"]
 	path = Kevin/DWWM
 	url = https://github.com/Kevin-dev-afpa/DWWM.git
+[submodule "Maxime/MCS"]
+	path = Maxime/MCS
+	url = https://github.com/Evolved-beep/MCS.git
