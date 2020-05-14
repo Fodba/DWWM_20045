@@ -10,3 +10,6 @@
 [submodule "Maxime/MCS"]
 	path = Maxime/MCS
 	url = https://github.com/Evolved-beep/MCS.git
+[submodule "Franck/MCD"]
+	path = Franck/MCD
+	url = https://github.com/SatanooX/MCD.git
