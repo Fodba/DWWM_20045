@@ -13,3 +13,9 @@
 [submodule "Franck/MCD"]
 	path = Franck/MCD
 	url = https://github.com/SatanooX/MCD.git
+[submodule "Samir/mcd"]
+	path = Samir/mcd
+	url = https://github.com/smirtest/mcd.git
+[submodule "Mohamed/DWWM"]
+	path = Mohamed/DWWM
+	url = https://github.com/mehdhaoui/DWWM.git
