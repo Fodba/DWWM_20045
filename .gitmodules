@@ -19,3 +19,6 @@
 [submodule "Mohamed/DWWM"]
 	path = Mohamed/DWWM
 	url = https://github.com/mehdhaoui/DWWM.git
+[submodule "Innocent/DWWM"]
+	path = Innocent/DWWM
+	url = https://github.com/binyoma/DWWM.git
