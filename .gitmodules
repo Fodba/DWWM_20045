@@ -28,3 +28,9 @@
 [submodule "Franck/Database_SQL"]
 	path = Franck/Database_SQL
 	url = https://github.com/SatanooX/Database_SQL.git
+[submodule "Kevin/Reprise-Jscript"]
+	path = Kevin/Reprise-Jscript
+	url = https://github.com/Bernaud-Jonathan/Reprise-Jscript.git
+[submodule "Jonathan/Reprise-Jscript"]
+	path = Jonathan/Reprise-Jscript
+	url = https://github.com/Bernaud-Jonathan/Reprise-Jscript.git
