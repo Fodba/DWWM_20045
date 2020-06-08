@@ -22,3 +22,9 @@
 [submodule "Innocent/DWWM"]
 	path = Innocent/DWWM
 	url = https://github.com/binyoma/DWWM.git
+[submodule "Kevin/SQL"]
+	path = Kevin/SQL
+	url = https://github.com/Kevin-dev-afpa/SQL.git
+[submodule "Franck/Database_SQL"]
+	path = Franck/Database_SQL
+	url = https://github.com/SatanooX/Database_SQL.git
