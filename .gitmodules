@@ -34,4 +34,15 @@
 [submodule "Jonathan/Reprise-Jscript"]
 	path = Jonathan/Reprise-Jscript
 	url = https://github.com/Bernaud-Jonathan/Reprise-Jscript.git
-
+[submodule "Nicolas/PHP"]
+	path = Nicolas/PHP
+	url = https://github.com/seretnicolas/PHP.git
+[submodule "Kevin/Jardistrap"]
+	path = Kevin/Jardistrap
+	url = https://github.com/Kevin-dev-afpa/Jardistrap.git
+[submodule "Kevin/Javascript-evaluation"]
+	path = Kevin/Javascript-evaluation
+	url = https://github.com/Kevin-dev-afpa/Javascript-evaluation.git
+[submodule "Innocent/exos_SQL"]
+	path = Innocent/exos_SQL
+	url = https://github.com/binyoma/sql.git
