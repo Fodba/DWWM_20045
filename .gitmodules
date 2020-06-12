@@ -46,3 +46,6 @@
 [submodule "Innocent/exos_SQL"]
 	path = Innocent/exos_SQL
 	url = https://github.com/binyoma/sql.git
+[submodule "Jonathan/Jscript"]
+	path = Jonathan/Jscript
+	url = https://github.com/Bernaud-Jonathan/Jscript.git
